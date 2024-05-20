@@ -1,0 +1,22 @@
+/* Estilo global para el cuerpo del documento */
+body {
+  margin: 0;
+
+  /* Configuración de la familia de fuentes */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 
+    'Helvetica Neue', sans-serif;
+
+  /* Suavizado de fuentes para navegadores WebKit */
+  -webkit-font-smoothing: antialiased;
+  
+  /* Suavizado de fuentes para navegadores Mozilla */
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Estilo global para elementos <code> */
+code {
+  /* Configuración de la familia de fuentes monospace */
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', 
+    monospace;
+}
